@@ -3,30 +3,30 @@
     <title>Aidos Kapanov</title>
     <link href="https://aidoseg.github.io/site/feed.xml" rel="self" />
     <link href="https://aidoseg.github.io/site" />
-    <updated>2023-05-24T11:21:16+05:00</updated>
+    <updated>2023-05-24T11:57:44+05:00</updated>
     <author>
         <name>Aidos Kapanov</name>
     </author>
     <id>https://aidoseg.github.io/site</id>
 
     <entry>
-        <title>My First Post</title>
+        <title>Мынау менің бірінші жазбам</title>
         <author>
             <name>Aidos Kapanov</name>
         </author>
-        <link href="https://aidoseg.github.io/site/my-first-post.html"/>
-        <id>https://aidoseg.github.io/site/my-first-post.html</id>
+        <link href="https://aidoseg.github.io/site/my-first-post/"/>
+        <id>https://aidoseg.github.io/site/my-first-post/</id>
 
-        <updated>2023-05-24T11:21:16+05:00</updated>
+        <updated>2023-05-24T11:57:44+05:00</updated>
             <summary>
                 <![CDATA[
-                    just to test it
+                    Тест ретінде Publii бағдарламында сайт жасап GitHub пен Cloudflare арқылы дүниеге жария еттім
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p> </p>
-<p>just to test it</p>
+<p>Тест ретінде Publii бағдарламында сайт жасап GitHub пен Cloudflare арқылы дүниеге жария еттім</p>
             ]]>
         </content>
     </entry>

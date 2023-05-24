@@ -10,18 +10,18 @@
     },
     "items": [
         {
-            "id": "https://aidoseg.github.io/site/my-first-post.html",
-            "url": "https://aidoseg.github.io/site/my-first-post.html",
-            "title": "My First Post",
-            "summary": "just to test it",
-            "content_html": "<p> </p>\n<p>just to test it</p>",
+            "id": "https://aidoseg.github.io/site/my-first-post/",
+            "url": "https://aidoseg.github.io/site/my-first-post/",
+            "title": "Мынау менің бірінші жазбам",
+            "summary": "Тест ретінде Publii бағдарламында сайт жасап GitHub пен Cloudflare арқылы дүниеге жария еттім",
+            "content_html": "<p> </p>\n<p>Тест ретінде Publii бағдарламында сайт жасап GitHub пен Cloudflare арқылы дүниеге жария еттім</p>",
             "author": {
                 "name": "Aidos Kapanov"
             },
             "tags": [
             ],
             "date_published": "2023-05-24T11:21:16+05:00",
-            "date_modified": "2023-05-24T11:21:16+05:00"
+            "date_modified": "2023-05-24T11:57:44+05:00"
         }
     ]
 }
